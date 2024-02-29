@@ -1,0 +1,22 @@
+body{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18pt;
+    color: maroon;
+}
+p,td{
+    color: deeppink;
+    font-size: 12pt;
+}
+img{
+    border-radius: 10px;
+}
+h1{
+    padding: 10px;
+    background-color: deeppink;
+    color: white;
+    font-weight: bold;
+    font-size: 14pt;
+    border-radius: 30px;
+    border-width: 1px;
+}
